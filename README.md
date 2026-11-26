@@ -166,7 +166,7 @@ Being upfront about these so readers don't over-interpret the dashboard:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
+   git clone https://github.com/Harshrathour-04/PhonePy_Analysis.git
    ```
 2. Open `dashboard/phonepy_dashboard.pbix` in **Power BI Desktop**.
 3. If prompted, update the data source path: **Home → Transform data → Data source settings**, and point it to `data/Phonepe-Final-Dataset.xlsx`.
@@ -186,8 +186,8 @@ Being upfront about these so readers don't over-interpret the dashboard:
 
 ## Author
 
-**<Your Name>**
-[LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
+**Harsh Kumar**
+[LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/Harshrathour-04)
 
 Key Metrics
 Findings
@@ -298,7 +298,8 @@ The .pbix (~15 MB) and the dataset (~22 MB) are under GitHub's 100 MB limit, but
 How to Run
 Clone the repo:
 bash
-git clone https://github.com/Harshrathour-04/<PhonePy Analysis>.git
+git clone https://github.com/Harshrathour-04/PhonePy_Analysis
+.git
 Open dashboard/phonepy_dashboard.pbix in Power BI Desktop.
 If prompted, update the data source path: Home → Transform data → Data source settings, and point it to data/Phonepe-Final-Dataset.xlsx.
 Click Refresh.
